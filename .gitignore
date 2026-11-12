@@ -1,0 +1,9 @@
+# PSFD 原始資料為授權資料，不得公開再散布
+家庭動態調查*/
+*.csv
+*.sav
+*.parquet
+research/out/
+*.png
+__pycache__/
+.DS_Store
